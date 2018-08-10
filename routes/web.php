@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 
 Route::get('/login', ['uses'=>'Controller@FazerLogin']);
-Route::post('/login', ['as'=>'user.login', 'uses'=>'Controller@login']);
+Route::post('/login', ['as'=>'user.login', 'uses'=>'DashboardController@auth']);
 
 
 

@@ -6,6 +6,10 @@
         <link rel="stylesheet" href="https;//fonts.googleapis.com/css?family=Fredoka+One">
     </head>
     <body>
+        <div class="backgroud">
+
+        </div>
+
         <section id="conteudo-view" class="login">
             <h1>Investindo</h1>
             <h3>O nosso gerenciador de investimento</h3>
